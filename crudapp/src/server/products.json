@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product 1",
+      "price": "1000",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "price": "2000",
+      "quantity": 2
+    },
+    {
+      "id": "95a9",
+      "name": "Product 3",
+      "price": "3000",
+      "quantity": "3"
+    },
+    {
+      "id": "e8dc",
+      "name": "Product 4",
+      "price": "4000",
+      "quantity": "4"
+    },
+    {
+      "id": "ec44",
+      "name": "Product 5",
+      "price": "5000",
+      "quantity": "5"
+    },
+    {
+      "id": "f96c",
+      "name": "Product 6",
+      "price": "6000",
+      "quantity": "6"
+    }
+  ]
+}
